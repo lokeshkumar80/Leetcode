@@ -1,5 +1,6 @@
 // class Solution {
 //     public:
+           // POTD Problem :- Submitted Scuccessfully...
 //         vector<int> applyOperations(vector<int>& nums) {
 //             int n=nums.size();
 //             vector<int>ans;

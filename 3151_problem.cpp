@@ -1,5 +1,6 @@
 // class Solution {
 //     public:
+// POTD Problem : Submitted Successfully
 //         bool evencheckspecial(vector<int>& nums){
 //             int n = nums.size();
 //             int i=0;
